@@ -1,6 +1,6 @@
-[![Release](https://img.shields.io/github/release/themsou/Fiche-de-Revision.svg)](https://github.com/themsou/Fiche-de-Revision/releases/)
+[![Release](https://img.shields.io/github/release/themsou/Fiches-De-Revisions.svg)](https://github.com/themsou/Fiches-De-Revisions/releases/)
 
-## Fiche de Révision [Septembre 2018]
+## Fiches de Révisions [Septembre 2018]
 
 **Application Java (Swing) qui permet de faire une mise en page automatique de plusieurs paragraphes dans le but de faire plus facilement des fiches de révisions ou des cours.**
 
