@@ -1,4 +1,4 @@
-[![Release](https://img.shields.io/github/release/themsou/Fiches-De-Revisions.svg)](https://github.com/themsou/Fiches-De-Revisions/releases/)
+[![Release](https://img.shields.io/github/v/release/themsou/Fiches-De-Revisions.svg)](https://github.com/themsou/Fiches-De-Revisions/releases/)
 
 ## Fiches de Révisions [Septembre 2018]
 
@@ -9,5 +9,4 @@ Vous pouvez en effet donner des règles au logiciel tel que : "Si la ligne comme
 *J'ai développé cette application lors de mes débuts sur Java et Swing. Le code est donc très mal organisé.*
 
 ## Les APIs
-
 Cette application Java Swing ne dépend d'aucune API si ce n'est Java 8 (Qui contient Swing).
